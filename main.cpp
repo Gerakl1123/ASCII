@@ -1,3 +1,10 @@
+/*
+
+Программа не работает почему в ближайщее врнемя
+
+	*/
+
+https://github.com/Gerakl1123/ASCII/blob/master/main.cpp#L5
 #include <iostream>
 
 using namespace std;
